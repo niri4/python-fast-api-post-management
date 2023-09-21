@@ -11,7 +11,7 @@ This is a Python fast-api application that allows for the creation, and deletiti
 
 1. Fork/Clone
 
-2. Create .env file and set data mention in .sample.env file:
+2. Create .env file and copy and set data mention in .sample.env file:
 
 3. Create and activate a virtual environment:
 
